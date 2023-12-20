@@ -1,1 +1,2 @@
 The second file was created
+This is the second file for using testing
