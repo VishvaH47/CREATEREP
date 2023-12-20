@@ -1,2 +1,2 @@
 testt1.txt file was created
-First test ws created 
+First test was created 
